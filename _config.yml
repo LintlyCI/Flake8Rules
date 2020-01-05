@@ -14,6 +14,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 collections:
   rules:
     output: true
